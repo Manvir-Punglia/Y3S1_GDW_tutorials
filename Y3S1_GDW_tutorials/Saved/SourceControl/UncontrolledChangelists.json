@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Uni/Unreal 5 projs/BegginerToAdvanced/Y3S1_GDW_tutorials/Y3S1_GDW_tutorials/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Uni/Unreal 5 projs/BegginerToAdvanced/Y3S1_GDW_tutorials/Y3S1_GDW_tutorials/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Uni/Unreal 5 projs/BegginerToAdvanced/Y3S1_GDW_tutorials/Y3S1_GDW_tutorials/Content/Tutorial3/Turret.uasset",
+				"C:/Uni/Unreal 5 projs/BegginerToAdvanced/Y3S1_GDW_tutorials/Y3S1_GDW_tutorials/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/SJ/14ACJ1ZYI3DKSPZEHDR6H6.uasset",
+				"C:/Uni/Unreal 5 projs/BegginerToAdvanced/Y3S1_GDW_tutorials/Y3S1_GDW_tutorials/Content/Tutorial3/BP_Turret.uasset",
+				"D:/Games/Epic Games/Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Uni/Unreal 5 projs/BegginerToAdvanced/Y3S1_GDW_tutorials/Y3S1_GDW_tutorials/Content/Tutorial3/BP_Bullet.uasset"
 			]
 		}
 	]
